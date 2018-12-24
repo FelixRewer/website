@@ -45,6 +45,11 @@ contributions:
       name: "Mogens Meißner"
       url: "http://mogensmeissner.tk"
     source: "https://github.com/MogiMei/VisualizeBubbleSort/blob/master/sketch.js"
+  - title: "BubbleSort with marks and sound"
+    author:
+      name: "Felix Rewer"
+      url: "https://github.com/FelixRewer/"
+    source: https://gist.github.com/FelixRewer/13622fc13e09696d0a34f09fbb0b4463
 ---
 
 In this coding challenge, I implement a "bubble sort" algorithm in Processing (Java) and sort randomly generated lines. [#SortingTrain](https://twitter.com/hashtag/SortingTrain)
